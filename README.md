@@ -1,4 +1,4 @@
-This is a program that generates secure password
+This is a program that generates secure password.
 
 It requires the user to provide to indicate some input to determine the features of the password.
 Inputs required are:
